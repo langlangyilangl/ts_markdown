@@ -227,7 +227,7 @@ class Male extends Human{
 
 ### 抽象类和接口的区别
 
-![image-20221128112739282](D:\Program Files (x86)\Typora\notes\TypeScript.assets\image-20221128112739282.png)
+![image-20221128112739282](.\TypeScript.assets\image-20221128112739282.png)
 
 
 
